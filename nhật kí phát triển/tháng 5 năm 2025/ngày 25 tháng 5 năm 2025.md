@@ -1,0 +1,1 @@
+ờm... hôm nay không thêm gì nhiều được mỗi mục đá đen. 

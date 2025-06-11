@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"4b6aeebb141f0555","type":"file","file":"nhân vật/Azath.md","x":90,"y":2,"width":327,"height":238},
+		{"id":"75793bc5efb3be1f","type":"file","file":"nhân vật/Paki.md","x":-240,"y":-360,"width":200,"height":120},
+		{"id":"9ad61f70c85dbee1","type":"file","file":"nhân vật/Walfen Dal.md","x":-340,"y":368,"width":300,"height":152},
+		{"id":"eeda86dfde1a8a84","type":"file","file":"nhân vật/Cardigan.md","x":-736,"y":-198,"width":296,"height":200},
+		{"id":"6c7d352e400e2f26","type":"file","file":"nhân vật/Cloudchaser.md","x":-879,"y":-640,"width":291,"height":160},
+		{"id":"7eb73462d296f650","type":"file","file":"nhân vật/Dalgolgon.md","x":-440,"y":960,"width":300,"height":200},
+		{"id":"ce77774f9e017adc","type":"file","file":"nhân vật/Ember.md","x":-1200,"y":1480,"width":240,"height":189},
+		{"id":"c94b3218376dd09a","type":"file","file":"nhân vật/Alps.md","x":240,"y":1480,"width":240,"height":158},
+		{"id":"9880643595980f94","type":"file","file":"nhân vật/Enicode.md","x":840,"y":520,"width":209,"height":138},
+		{"id":"c11c262dc1bf55f0","type":"file","file":"nhân vật/Bố Azath.md","x":417,"y":-680,"width":223,"height":164},
+		{"id":"b3827727c7b6f13b","type":"file","file":"nhân vật/thần cai trị.md","x":721,"y":-460,"width":239,"height":160},
+		{"id":"143227b792e80002","x":640,"y":760,"width":201,"height":120,"type":"file","file":"nhân vật/Janirlgane.md"}
+	],
+	"edges":[
+		{"id":"cfb66268747fd861","fromNode":"c11c262dc1bf55f0","fromSide":"left","toNode":"4b6aeebb141f0555","toSide":"top","label":"bố"},
+		{"id":"3b37764eeb075919","fromNode":"75793bc5efb3be1f","fromSide":"right","toNode":"4b6aeebb141f0555","toSide":"top","label":"anh trai"},
+		{"id":"a6d42e06035ac022","fromNode":"eeda86dfde1a8a84","fromSide":"right","toNode":"4b6aeebb141f0555","toSide":"left","label":"bạn tại w5"},
+		{"id":"943dc360fafd864a","fromNode":"9ad61f70c85dbee1","fromSide":"top","toNode":"4b6aeebb141f0555","toSide":"left","label":"bạn gặp tại trại lính"},
+		{"id":"0a783f4aa3f99fa3","fromNode":"6c7d352e400e2f26","fromSide":"bottom","toNode":"eeda86dfde1a8a84","toSide":"top","label":"bạn thủa nhỏ"},
+		{"id":"416c87f3ae972c0b","fromNode":"7eb73462d296f650","fromSide":"top","toNode":"9ad61f70c85dbee1","toSide":"bottom","label":"phiên bản tương lai của dal \ntại dòng thời gian gốc"},
+		{"id":"5b351ebef414022f","fromNode":"ce77774f9e017adc","fromSide":"right","toNode":"7eb73462d296f650","toSide":"left","label":"1 trong 4 thành viên\ntrong đội thám hiểm của \ndalg, người yêu của dalg"},
+		{"id":"a610e9a82e6b6bda","fromNode":"c94b3218376dd09a","fromSide":"top","toNode":"7eb73462d296f650","toSide":"bottom","label":"1 trong 4 thành viên trong\nđội thám hiểm. bị hiểu nhầm là đã chết khi bị kẹt tại rừng vòng xoáy"},
+		{"id":"36f49cfccf61b464","fromNode":"c94b3218376dd09a","fromSide":"top","toNode":"4b6aeebb141f0555","toSide":"bottom","label":"trùm cuối w2"},
+		{"id":"20f46e509969ffae","fromNode":"75793bc5efb3be1f","fromSide":"right","toNode":"c11c262dc1bf55f0","toSide":"left","label":"con"},
+		{"id":"fdcce8727541a65f","fromNode":"9880643595980f94","fromSide":"top","toNode":"4b6aeebb141f0555","toSide":"right","label":"thầy azath"},
+		{"id":"a9d8d9da37aa9dd1","fromNode":"b3827727c7b6f13b","fromSide":"left","toNode":"4b6aeebb141f0555","toSide":"right","label":"kiểm soát azath"},
+		{"id":"43cfb05693bb57cc","fromNode":"143227b792e80002","fromSide":"top","toNode":"4b6aeebb141f0555","toSide":"right","label":"bạn thân"}
+	]
+}
